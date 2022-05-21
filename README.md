@@ -12,10 +12,10 @@ The program has three users, and each user has a specific scope of functions.
 
 This is the home interface that shows the menue of the program functions.
 
-![Home page](Home page.PNG)
+![Home_page](Home_page.PNG)
 
 
 This interface will appear to add a new book to the library.
 
-![New book](New book.PNG)
+![New_book](New_book.PNG)
 
