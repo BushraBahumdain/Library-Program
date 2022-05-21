@@ -19,5 +19,3 @@ This interface will appear to add a new book to the library.
 
 ![New book](New book.PNG)
 
-
-
