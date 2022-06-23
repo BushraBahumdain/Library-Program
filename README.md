@@ -10,7 +10,7 @@ The program has three users, and each user has a specific scope of functions.
 ![Login](Login.PNG)
 
 
-This is the home interface that shows the menue of the program functions.
+This is the home interface that shows the menu of the program functions.
 
 ![Home_page](Home_page.PNG)
 
