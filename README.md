@@ -1,11 +1,11 @@
 # Library-Program
 
-This is a library program which provides the service of borrowing and retrieving books from the library.
+This is a library program that provides services of borrowing and retrieving books from the library.
 
 
 # Program Interfaces
 
-The program has three users, and each user has a specific scope of functions.
+The program has three users, each user has a specific scope of functions.
 
 ![Login](Login.PNG)
 
